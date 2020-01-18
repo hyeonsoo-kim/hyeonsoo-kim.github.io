@@ -16,16 +16,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>현수 김</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>현수 김</o:LastAuthor>
-  <o:Revision>13</o:Revision>
-  <o:TotalTime>156</o:TotalTime>
-  <o:Created>2020-01-18T05:39:00Z</o:Created>
-  <o:LastSaved>2020-01-18T07:02:00Z</o:LastSaved>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>72</o:TotalTime>
+  <o:Created>2020-01-18T05:28:00Z</o:Created>
+  <o:LastSaved>2020-01-18T05:38:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>194</o:Words>
-  <o:Characters>1110</o:Characters>
-  <o:Lines>9</o:Lines>
-  <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1302</o:CharactersWithSpaces>
+  <o:Words>104</o:Words>
+  <o:Characters>599</o:Characters>
+  <o:Lines>4</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>702</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,6 +36,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="index.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:View>Print</w:View>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
@@ -670,14 +671,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:0 268435456 0 0 -2147483648 0;}
 @font-face
-	{font-family:돋움;
-	panose-1:2 11 6 0 0 1 1 1 1 1;
-	mso-font-alt:Dotum;
-	mso-font-charset:129;
-	mso-generic-font-family:modern;
-	mso-font-pitch:variable;
-	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
-@font-face
 	{font-family:굴림;
 	panose-1:2 11 6 0 0 1 1 1 1 1;
 	mso-font-alt:Gulim;
@@ -707,13 +700,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-signature:-1879048145 701988091 18 0 524289 0;}
 @font-face
 	{font-family:"\@굴림";
-	panose-1:2 11 6 0 0 1 1 1 1 1;
-	mso-font-charset:129;
-	mso-generic-font-family:modern;
-	mso-font-pitch:variable;
-	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
-@font-face
-	{font-family:"\@돋움";
 	panose-1:2 11 6 0 0 1 1 1 1 1;
 	mso-font-charset:129;
 	mso-generic-font-family:modern;
@@ -813,7 +799,8 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 	mso-font-kerning:1.0pt;
 	font-weight:bold;}
 a:link, span.MsoHyperlink
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#0563C1;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -1273,81 +1260,16 @@ lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"
 
 <p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
 lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>●
-Military Service </span><span lang=EN-US>(Dec 2016 ~ Sep 2018)</span></p>
-
-<p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
-lang=EN-US style='mso-bidi-font-family:"Times New Roman"'><span
-style='mso-tab-count:1'>         </span></span><span lang=EN-US
-style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>○
-</span><span lang=EN-US style='mso-fareast-font-family:돋움;mso-bidi-font-family:
-"Times New Roman";color:black'>Troop for operating satellite communication.</span><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
-style='mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:1'>     </span></span><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>○
-</span><span lang=EN-US style='mso-fareast-font-family:돋움;mso-bidi-font-family:
-"Times New Roman";color:black'>Complete military service at the 20<sup>th</sup>
-Mechanical Infantry Division in Korean army, </span><span lang=EN-US
-style='font-size:11.0pt;line-height:105%;mso-bidi-font-family:"Times New Roman";
-color:black;mso-color-alt:windowtext;background:white'>Sergeant</span><span
-lang=EN-US style='mso-fareast-font-family:돋움;mso-bidi-font-family:"Times New Roman";
-color:black'>. </span><span lang=EN-US style='mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
-
-<p class=MsoTitle><span lang=EN-US>Activities<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>●
-</span><span lang=EN-US><a href="http://keeper.or.kr/">KEEPER</a> [ Information
-Security Club in Pusan National University ( Mar 2014 ~<span
-style='mso-spacerun:yes'>  </span>) ]<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
-style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>○
-Executive Activities<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:42.0pt;mso-char-indent-count:3.5'><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>-
-Vice President ( 2019.09.01 ~ )<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:42.0pt;mso-char-indent-count:3.5'><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>-
-Chief of Academic and Education ( 2019.01.01 ~ )<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
-style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>○
-Presentations<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
-style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>○
-Technical Documents<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>●
-Chief, “Begin Again”, Election Camp for the presidential election of </span><span
-lang=EN-US>General Student Council, Pusan National University (Nov 2018 ~ Dec
-2018)<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
-lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>●
-Chief, The committee of education, </span><span lang=EN-US>General Student
-Council, Pusan National University (2016)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"맑은 고딕";
-mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+</span><span lang=EN-US>KEEPER, Information Security Club, Pusan National
+University ( Mar,2014 ~<span style='mso-spacerun:yes'>  </span>)</span></p>
 
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
-<div style='mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
-mso-border-bottom-alt:solid windowtext .75pt;padding:0cm 0cm 1.0pt 0cm'>
+<p class=MsoNormal style='text-indent:12.0pt;mso-char-indent-count:1.0'><span
+lang=EN-US style='mso-fareast-font-family:"맑은 고딕";mso-bidi-font-family:"Times New Roman"'>●
+</span><span lang=EN-US>General Student Council, Pusan National University</span></p>
 
-<p class=MsoNormal style='border:none;mso-border-bottom-alt:solid windowtext .75pt;
-padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
-
-</div>
-
-<p class=MsoNormal><span lang=EN-US><span style='mso-spacerun:yes'> </span>Last
-Updated at 2020.01.18 <o:p></o:p></span></p>
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoListParagraph style='margin-left:20.0pt;mso-para-margin-left:0gd'><span
 lang=EN-US><o:p>&nbsp;</o:p></span></p>
