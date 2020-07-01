@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Hyeonsoo Kim's "Yallacha" Lab
-email: hs.ignatuis,kim@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: 
+title: Hyeonsoo Kim's Lab
+email: hs.ignatuis.kim@gmail.com
+description: Hyeonsoo Kim's Blog.
+url:
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Hyeonsoo Kim
+  avatar: hskim.jpg
+  job: "4th, Undergraduate, CSE @ Pusan National University"
+  bio: " "
   email: hs.ignatius.kim@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: the.alcatraz.kim
   google:
     plus: #username
     analytics:
@@ -68,4 +68,4 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
-  telegram: #username
+  telegram: Geum_o_san_Turtle
