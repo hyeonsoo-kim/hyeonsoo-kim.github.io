@@ -6,7 +6,7 @@ categories : ["Network"]
 
 &nbsp;&nbsp; IP(Internet Protocol)는 Network 계층에서 Internet을 구현하는 프로토콜이다. IP는 크게 Addressing과 Fragmentation 기능을 통하여 작동된다.[1] 이 글에서는 Fragmentation에 대하여 살펴본다. 그리고 IP Header의 구조를 살펴보고, Fragmentation과 관련된 취약점에 대해 살핀다.
 
-# IP Header의 구조
+## IP Header의 구조
 &nbsp;&nbsp;IP Header의 구조는 그림 1과 같다. 
 
   <img src='https://t1.daumcdn.net/cfile/tistory/2446013E5232F78705'> 그림 1: IP Header의 구조 [1,2] </img>
@@ -25,7 +25,7 @@ categories : ["Network"]
   10. IP Address : Source Address에는 보내는 측의 IP 주소, Destination Address에는 보내고자 하는 곳의 IP 주소가 들어간다. IPv4의 주소는 0 ~ 255까지의 십진수를 기준으로 점('.')으로 구별되나, 패킷에서는 연속된 비트값으로 저장된다. 
   11. IP Option : 추가적인 IP 패킷의 설정값들이다.   
 
-# IP Fragmentation와 그 취약점
+## IP Fragmentation와 그 취약점
 
 &nbsp;&nbsp;IP 패킷은 Data Link 계층에 전송될 때, 이더넷 프레임의 Payload에 적재된다. 이 때, 이더넷 프레임의 payload의 최대 용량을 1500 바이트이다. IP 헤더의 최소 용량이 20 바이트[1]이므로, 하나의 IP 패킷으로 보낼 수 있는 최대 용량을 1480 바이트이다. 
 
@@ -39,7 +39,7 @@ categories : ["Network"]
 
 <b id="f2">2 </b>프로토콜별로 정해진 ID를 자세히 알아보려면, <https://tools.ietf.org/html/rfc790> 의 5페이지부터 참조하면 된다.
 
-# 참고문헌
+## 참고문헌
 [1] Postel, J., "Internet Protocol", STD 5, RFC 791, DOI 10.17487/RFC0791, September 1981, <https://www.rfc-editor.org/rfc/rfc791.txt>.
 
 [2] Mind Net. 2020. [ 네트워크 쉽게 이해하기 18편 ] IP Header IP헤더 구조. [online] Available at: <https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-18%ED%8E%B8-IP-Header-IP%ED%97%A4%EB%8D%94-%EA%B5%AC%EC%A1%B0> [Accessed 8 September 2020].
