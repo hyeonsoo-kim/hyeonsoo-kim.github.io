@@ -1,6 +1,7 @@
 ---
 layout : post
 title : "Ethernet Frame"
+categories : ["Network"]
 ---
 
 &nbsp;&nbsp; 이더넷 프레임(Ethernet Frame)은 Data Link Layer에서 이더넷 기술에 기반한 물리 계층에 데이터를 전송하기 위한 데이터 단위이다. 그림 1은 이더넷 프레임의 구조이다. 이더넷 프레임은 Preamble, SFD(Start Frame Delimeter), MAC Address, EtherType, Payload, FCS로 구성한다. 

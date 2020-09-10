@@ -1,6 +1,7 @@
 ---
 layout : post
 title : "IP Header와 IP Fragmentation"
+categories : ["Network"]
 ---
 
 &nbsp;&nbsp; IP(Internet Protocol)는 Network 계층에서 Internet을 구현하는 프로토콜이다. IP는 크게 Addressing과 Fragmentation 기능을 통하여 작동된다.[1] 이 글에서는 Fragmentation에 대하여 살펴본다. 그리고 IP Header의 구조를 살펴보고, Fragmentation과 관련된 취약점에 대해 살핀다.
