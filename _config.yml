@@ -1,7 +1,7 @@
 # Site settings
 title:          Rain
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+url:            https://www.hyeonsookim.me
 
 # Author
 author:
@@ -21,7 +21,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: hs.ignatius.kim@gmail.com
+  github: https://github.com/hyeonsoo-kim
+  #twitter: https://twitter.com
+  #linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
