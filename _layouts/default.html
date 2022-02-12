@@ -10,6 +10,7 @@
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul class="nav-social-icons">
+		 	<li><a href="{{'/about' | prepend: site.baseurl }}">About</a>
           {% if site.social.email %}
             <li><a target="_blank" href="mailto:{{ site.social.email }}"><i class="fas fa-envelope"></i></a></li>
           {% endif %}
