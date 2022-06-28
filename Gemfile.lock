@@ -76,7 +76,7 @@ GEM
     mercenary (0.4.0)
     minitest (5.15.0)
     multi_json (1.15.0)
-    nokogiri (1.13.1-x86_64-linux)
+    nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -113,6 +113,7 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
 
 PLATFORMS
   x86_64-linux
@@ -121,8 +122,10 @@ DEPENDENCIES
   bundler (~> 2.0)
   jekyll-admin
   jemoji
+  nokogiri (~> 1.13.6)
   rake (~> 12.3.3)
   tale!
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.7
