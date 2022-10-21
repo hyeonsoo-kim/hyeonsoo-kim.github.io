@@ -76,7 +76,7 @@ GEM
     mercenary (0.4.0)
     minitest (5.15.0)
     multi_json (1.15.0)
-    nokogiri (1.13.6-x86_64-linux)
+    nokogiri (1.13.9-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -122,7 +122,7 @@ DEPENDENCIES
   bundler (~> 2.0)
   jekyll-admin
   jemoji
-  nokogiri (~> 1.13.6)
+  nokogiri (~> 1.13.9)
   rake (~> 12.3.3)
   tale!
   webrick (~> 1.7)
