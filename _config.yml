@@ -2,7 +2,7 @@
 title:          Hyeonsoo Kim's Lab
 description:    "Blog of Hyeonsoo Kim"
 #baseurl:        "/tale"
-url:            "https://www.hyeonsookim.me"
+url:            "https://www.hyeonsookim.kr"
 
 # Google Analytics
 google_analytics: G-5Z3596LJRX
@@ -10,7 +10,7 @@ google_analytics: G-5Z3596LJRX
 # Author
 author:
   name:         Hyeonsoo Kim
-  url:          https://www.hyeonsookim.me
+  url:          https://www.hyeonsookim.kr
   email:        hs.ignatius.kim@gmail.com
 
 # Build settings

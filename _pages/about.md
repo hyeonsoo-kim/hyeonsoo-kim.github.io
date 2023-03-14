@@ -1,19 +1,43 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
 permalink: /about
 ---
 
-<!--A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+<span style="float:right">[English](/about_eng) / [CV]()</span>
+<br>
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+# 김현수
+## 연락처 
+* E-mail : [hs.ignatius.kim@gmail.com](mailto:hs.ignatius.kim@gmail.com)
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+* Github : [https://github.com/hyeonsoo-kim](https://github.com/hyeonsoo-kim)
 
-Thanks for reading!-->
+## 경력
+<!-- * 보안사업센터, [메가존클라우드](https://megazone.com) <span style="float:right">2021.03. ~ 현재<span> -->
+
+* **사원**, 보안관제센터, ICT사업본부, [이글루코퍼레이션](https://www.igloo.co.kr) <span style="float:right">2021.01 ~ 2023.03(2년 2개월)<span>
 
 
-<span style="float:right">[CV]()</span>
+## 활동
+*  [K-shield Jr. (케이쉴드 주니어) 보안사고 분석대응 기술인력 양성과정](http://www.kshieldjr.org/) <span style="float:right">2020.08 ~ 2020.11(4개월)<span>
+
+    - 우수정보보호 취업인재(K-shield 주니어) 인증 (2020.12., 한국인터넷진흥원장, 최종 15위)
+
+## 교육
+* **공학사**, [전기컴퓨터공학부 정보컴퓨터공학전공, 공과대학](https://cse.pusan.ac.kr), [부산대학교](https://pusan.ac.kr)  <span style="float:right">2014.03 ~ 2021.02(7년)<span>
+
+    - 부전공 : [언어정보학과](https://linguistics.pusan.ac.kr) 
+    - 졸업과제 : 리눅스 컨테이너를 위한 I/O 성능 Isolation 프레임워크 개발 (2019.12 ~ 2020.08) 
+
+## 자격
+* [**정보처리기사**](http://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320),한국산업인력공단 <span style="float:right">2021.11.<span>
+
+    - 자격번호 : 21203100343X
+
+## 기타
+* **병역사항** : 육군 병장 만기전역 (정보통신) <span style="float:right">2016.12. ~ 2018.09. (1년 9개월)<span>
+
+
+
 
